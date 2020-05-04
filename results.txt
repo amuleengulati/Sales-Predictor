@@ -1,0 +1,36 @@
+------------------------------------
+LINEAR REGRESSION MODEL STATISTICS:
+------------------------------------
+Accuracy: 0.032
+Mean Squared Error: 501243844.308
+Mean Absolute Error: 15139.612
+------------------------------------
+RIDGE REGRESSION STATISTICS:
+------------------------------------
+Accuracy: 0.032
+Mean Squared Error: 501243844.308
+Mean Absolute Error: 15139.612
+------------------------------------
+RANDOM FOREST STATISTICS:
+------------------------------------
+Accuracy: 0.957
+Mean Squared Error: 501243844.308
+Mean Absolute Error: 15139.612
+------------------------------------
+KNN MODEL STATISTICS:
+------------------------------------
+Accuracy: 0.853
+Mean Squared Error: 75906552.577
+Mean Absolute Error: 4532.286
+------------------------------------
+DECISION TREE STATISTICS:
+------------------------------------
+Accuracy: 0.953
+Mean Squared Error: 24484818.753
+Mean Absolute Error: 1863.832
+------------------------------------
+XGB REGRESSOR STATISTICS:
+------------------------------------
+Accuracy: 0.962
+Mean Squared Error: 19658070.129
+Mean Absolute Error: 2070.563
